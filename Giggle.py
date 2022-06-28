@@ -89,7 +89,7 @@ def start_mail():
     '''
     # The mail addresses and password
     sender_address = 'pandeyprashant0311@gmail.com'
-    sender_pass = 'prashant@2001'
+    sender_pass = '********'
     receiver_address = 'khuships2001@gmail.com'
     # Setup the MIME
     message = MIMEMultipart()
